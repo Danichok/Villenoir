@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/villenoir/static/css/main.d552275d.css",
-    "main.js": "/villenoir/static/js/main.af6cd933.js",
+    "main.js": "/villenoir/static/js/main.0fa17215.js",
     "static/js/787.8d884ee2.chunk.js": "/villenoir/static/js/787.8d884ee2.chunk.js",
     "static/media/video.mp4": "/villenoir/static/media/video.ae5ee6ca897f02a8c42d.mp4",
     "static/media/wine_bottle_5.png": "/villenoir/static/media/wine_bottle_5.0eb14b53e88b8972e630.png",
@@ -13,8 +13,6 @@
     "static/media/big_white_bottle.png": "/villenoir/static/media/big_white_bottle.85970dd648b42a274df7.png",
     "static/media/big_red_bottle.png": "/villenoir/static/media/big_red_bottle.3ea3e7e75f5eee3ddf56.png",
     "static/media/shop_background.jpg": "/villenoir/static/media/shop_background.ed205a27382882caafe8.jpg",
-    "static/media/wine2.png": "/villenoir/static/media/wine2.3a10bbeea27087fecdea.png",
-    "static/media/wine1.png": "/villenoir/static/media/wine1.f06df85c321abb4cdbb2.png",
     "static/media/silhouette_man.jpg": "/villenoir/static/media/silhouette_man.c347918fc5f29d738349.jpg",
     "static/media/logo_navbar.svg": "/villenoir/static/media/logo_navbar.be63a2a0bacdc4a2963c5b0128d4f30e.svg",
     "index.html": "/villenoir/index.html",
@@ -22,11 +20,11 @@
     "static/media/user.svg": "/villenoir/static/media/user.022aca0dfaca782593e325e25a25d6a4.svg",
     "static/media/search.svg": "/villenoir/static/media/search.2c76f520715d0ab53a83fe47b5eddf2f.svg",
     "main.d552275d.css.map": "/villenoir/static/css/main.d552275d.css.map",
-    "main.af6cd933.js.map": "/villenoir/static/js/main.af6cd933.js.map",
+    "main.0fa17215.js.map": "/villenoir/static/js/main.0fa17215.js.map",
     "787.8d884ee2.chunk.js.map": "/villenoir/static/js/787.8d884ee2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d552275d.css",
-    "static/js/main.af6cd933.js"
+    "static/js/main.0fa17215.js"
   ]
 }
